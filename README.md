@@ -12,9 +12,7 @@ Welcome to our Modular Expert System designed for PDF to Vector Question Answeri
 
 3. **Question Answering (QA):** Equipped with a robust QA module, the system can accurately respond to queries based on the vectorized content of the PDFs.
 
-4. **Offline Operation:** Our system operates entirely offline, eliminating the need for external keys or online services. This ensures data privacy and reduces dependency on external resources.
-
-5. **Resource Optimization:** It intelligently utilizes both CPU and GPU resources for processing, maximizing efficiency and performance.
+4. **Resource Optimization:** It intelligently utilizes both CPU and GPU resources for processing, maximizing efficiency and performance.
 
 ### Components:
 
@@ -32,7 +30,6 @@ Welcome to our Modular Expert System designed for PDF to Vector Question Answeri
 
 3. **Querying:** Ask questions related to the content of the PDFs, and the system will provide accurate responses based on the processed data.
 
-4. **Offline Operation:** Enjoy the convenience of offline operation without the need for external services or keys.
 
 ### Example Queries:
 

@@ -45,10 +45,6 @@ We welcome contributions to enhance the capabilities and efficiency of our PDF t
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code for your specific use cases.
 
-### Support:
-
-For any inquiries, support requests, or feedback, please reach out to us at [support@example.com](mailto:support@example.com).
-
 ---
 
 Thank you for choosing our Modular Expert System for PDF to Vector Question Answering. We're excited to assist you in efficiently extracting insights from your documents!
